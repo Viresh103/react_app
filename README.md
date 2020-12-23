@@ -1,4 +1,5 @@
-# netify site link https://mystifying-hugle-a6c3bc.netlify.app/
+# netlify link of site
+https://mystifying-hugle-a6c3bc.netlify.app/
 
 
 # Getting Started with Create React App
