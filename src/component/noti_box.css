@@ -1,0 +1,39 @@
+.box{
+    left:1%;
+    right: 1px;
+    /* top:10px; */
+    height: 50px;
+    padding: 4%;
+    background: #ffffff;
+   border-color: #bebeb4;
+   border-style: solid;
+   border-top-width: 1%;
+}
+
+#icon{
+    /* left:10px;
+    top:10px; */
+    /* padding: 5px; */
+    width: 15.3%;
+    height: 30px;
+    float: left;
+    background: purple;
+    border-radius: 10px;
+}
+
+#name{
+    left:5%;
+    /* float: left; */
+    font-style: italic;
+    padding-left: 22%;
+    height: 25px;
+    background: #FFFFFF;
+}
+#note{
+    padding-left: 22%;
+    padding-top: 2%;
+    height: 18px;
+    background: #FFFFFF;
+    /* overflow:scroll; */
+}
+
