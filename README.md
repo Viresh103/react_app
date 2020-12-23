@@ -1,4 +1,4 @@
-# netlify link of site
+# netlify link of desktop site
 https://mystifying-hugle-a6c3bc.netlify.app/
 
 
