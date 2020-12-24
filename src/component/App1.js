@@ -40,7 +40,7 @@ function App1() {
          <pre>    last month     </pre>
           +67.4%
       </div>
-      <div id="inbox"><pre>inbox             <span>26</span></pre></div>
+      <div id="inbox"><pre>inbox           <span>26</span></pre></div>
     </div>
   );
 }

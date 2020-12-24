@@ -5,6 +5,7 @@ height: 1084px;
 left: 0px;
 top: 0px;
 float: left;
+/* overflow: hidden; */
 background: #FF6C40;
 }
 
@@ -17,8 +18,23 @@ top: 7px;
 
 background: #FFC480;
 }
+.second{
+  position: absolute;
+  width: 100%;
+  height: 82px;
 
-#box{
+  top: 89px;
+  
+}
+.third{
+  position: absolute;
+width: 100%;
+height: 82px;
+/* left: 0px; */
+top: 171px;
+
+}
+/* #box{
 
 position: absolute;
 width: 36px;
@@ -47,10 +63,10 @@ left: 30.49px;
 top: 210px;
 
 background: #FFFFFF;
-}
-#dash {
-  position: absolute;
-width: 20%;
+} */
+.dash {
+  position: relative;
+width: 70%;
 height: 36px;
 left: 30%;
 top: 30px;
@@ -58,41 +74,7 @@ top: 30px;
 font-family: SF Pro Display;
 font-style: normal;
 font-weight: bold;
-font-size: 30px;
-line-height: 36px;
-
-/* identical to box height */
-
-color: #FFFFFF;
-}
-#dash1{
-  position: absolute;
-width: 20%;
-height: 36px;
-left: 30%;
-top: 121px;
-
-font-family: SF Pro Display;
-font-style: normal;
-font-weight: bold;
-font-size: 30px;
-line-height: 36px;
-
-/* identical to box height */
-
-color: #FFFFFF;
-}
-#dash2{
-  position: absolute;
-width: 20%;
-height: 36px;
-left: 30%;
-top: 210px;
-
-font-family: SF Pro Display;
-font-style: normal;
-font-weight: bold;
-font-size: 30px;
+font-size: 2.8vw;
 line-height: 36px;
 
 /* identical to box height */
